@@ -27,8 +27,11 @@ Step 3: Locating the Output File
 
               pwd
 Which showed:
+
           /home/kali
+          
 Then I listed the files using:
+
               ls
               
 And confirmed the file scan_results.txt was present.
